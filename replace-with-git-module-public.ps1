@@ -20,7 +20,7 @@
         9. Removes backup directory "~old".
 .NOTES
     Author: Nils Rodrigues
-    E-Mail: nils.rodrigues@gmx.com
+    E-Mail: nils.2011@gmx.com
 #>
 
 #Requires -Version 7
